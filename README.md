@@ -2,7 +2,6 @@
 📽 motionLayout과 exoplayer, retrofit을 이용한 영상플레이어 📽
 
 ## 개발환경
-
 * OS : windows 10 pro
 * IDE : Android Studio
 * Language : Kotlin
